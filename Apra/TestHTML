@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html manifest="mt.appcache">
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<script>
+if (top.location != self.location) { top.location = self.location; }
+</script>
+<title>swim</title>
+<meta http-equiv="Content-Language" Content="ru"/>
+<meta name="Keywords" Content="swim"/>
+<meta name="revisit-after" content="15 days"/>
+<meta name="rating" content="safe for kids"/>
+<meta property="og:title" content="swim"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://www.multitran.ru/c/m.exe?l1=1&l2=2&s=swim"/>
+<meta property="og:image" content="http://www.multitran.ru/gif/logo.gif"/>
+<meta property="og:site_name" content="Словарь Мультитран"/>
+<meta name="ROBOTS" content="ALL"/>
+<link rel="TOC" href="http://www.multitran.ru/c/m.exe?a=5&s=searches"/>
+<link rel="index" href="http://www.multitran.ru/c/m.exe?a=5&s=searches"/>
+<link rel="contents" href="http://www.multitran.ru/c/m.exe?a=5&s=searches"/>
+<link type="application/opensearchdescription+xml" rel="search" href="http://www.multitran.ru/osdd.xml">
+<link rel="shortcut icon" href="/gif/favicon.ico">
+<meta name="keywords" content="словарь, англо-русский словарь, немецко-русский словарь, электронный словарь, автоматический словарь, перевод, форум переводчиков">
+<meta name="description" content="англо-русский словарь">
+<link rel="stylesheet" href="/style3.css" type="text/css">
+
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2913236-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/20674832/Multitran_160x600_ROS_Top_Left_ww', [160, 600], 'div-gpt-ad-1353228502102-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/20674832/Multitran_160x600_ROS_Top_Right_ww', [160, 600], 'div-gpt-ad-1353228980937-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+<script type="text/javascript" src="script.js"> </script>
+<script type="text/javascript">
+var urlgo="m.exe?l1=1&l2=2&s=";
+var url="ms.exe?l1=1&l2=2&s=";
+var strclosesug="close";
+</script>
+
+</head>
+<body>
+<a name="start"></a>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td></td><td>
+<table border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td><table border="0" cellspacing="0" cellpadding="0"><tr><td><table width>
+<tr>
+<td>
+<!--Rating@Mail.ru counter-->
+<script language="javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer);js=10;//--></script>
+<script language="javascript1.1"><!--
+a+=';j='+navigator.javaEnabled();js=11;//--></script>
+<script language="javascript1.2"><!--
+s=screen;a+=';s='+s.width+'*'+s.height;
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;//--></script>
+<script language="javascript1.3"><!--
+js=13;//--></script><script language="javascript" type="text/javascript"><!--
+d.write('<img src="http://db.c1.b3.a0.top.mail.ru/counter'+'?id=203589;js='+js+
+a+';rand='+Math.random()+'" height="1" width="1" alt="top.mail.ru" border="0">');
+if(11<js)d.write('<'+'!-- ');//--></script>
+<noscript><img src="http://db.c1.b3.a0.top.mail.ru/counter?js=na;id=203589"
+height="1" width="1" alt="top.mail.ru" border="0"></noscript>
+<script language="javascript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>');//--></script>
+<!--// Rating@Mail.ru counter-->
+<a href="../c/m.exe?a=5&amp;s=AboutMultitran.htm">О словаре</a>&nbsp;<span STYLE="color:gray">|<span STYLE="color:black">&nbsp;
+<a href="../c/m.exe?a=5&amp;s=FAQ.htm">FAQ</a>&nbsp;<span STYLE="color:gray">|<span STYLE="color:black">&nbsp;
+<a href="../c/m.exe?a=5&amp;s=Advertise.htm" class="last">Реклама</a></td>
+<td> <table><tr><td></td></tr></table> </td>
+<td ><a href="m.exe?a=40">Вход</a>&nbsp;<span STYLE="color:gray">|<span STYLE="color:black">&nbsp;<a href="m.exe?a=113">Регистрация</a>&nbsp;<span STYLE="color:gray">|<span STYLE="color:black">&nbsp;
+<a href="../c/m.exe?a=24&amp;s=swim&amp;action=0">Настройки</a></td>
+</tr>
+</table>
+<table>
+<tr>
+<td><a href="../c/m.exe?a=1"><img src="../j/logo.gif"
+alt="Словарь Мультитран" width="252" height="90"></a>
+</td>
+<td>
+<script type='text/javascript'><!--//<![CDATA[
+document.MAX_ct0 ='';
+var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
+var m3_r = Math.floor(Math.random()*99999999999);
+var ctoAdSlot = "7748625930";
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("zoneid=26525");document.write("");
+document.write ('&cb=' + m3_r);
+document.write("&ctoAdSlot=" + escape(ctoAdSlot));
+if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+document.write ("&loc=" + escape(window.location));
+if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+if (document.context) document.write ("&context=" + escape(document.context));
+if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+document.write ("&ct0=" + escape(document.MAX_ct0));
+}
+if (document.mmm_fo) document.write ("&mmm_fo=1");
+document.write ("'></scr"+"ipt>");
+//]]>--></script>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><a href="../c/m.exe?a=5&amp;s=searches"><img src="../j/dict_active.gif" alt="Dicts"
+width="83" height="27"></a>&nbsp;<a href="../c/m.exe?a=2&amp;l1=1&amp;l2=2"><img
+border="0" src="../j/forum.gif" alt="Forum" width="83" height="27"></a>&nbsp;<a
+href="../c/m.exe?a=44&amp;nadd=1"><img src="../j/buy.gif" alt="Buy" width="83" height="27"></a>&nbsp;<a
+href="../c/m.exe?a=5&amp;s=DownloadFile"><img src="../j/download.gif" alt="Download"
+width="83" height="27"></a>&nbsp;<a href="../c/m.exe?a=45"><img src="../j/guestbook.gif"
+alt="Guestbook" width="83" height="27"></a>&nbsp;<a href="../c/m.exe?a=5&amp;s=s_contacts"><img
+src="../j/contacts.gif" alt="Contacts" width="83" height="27"></a></td>
+<td align="center" valign="middle"></td>
+</tr>
+</table>
+</td></tr><tr><td>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td width=170>
+<script type='text/javascript'>
+<!--//<![CDATA[
+document.MAX_ct0 ='';
+var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
+var m3_r = Math.floor(Math.random()*99999999999);
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("zoneid=57538");document.write("&amp;nodis=1");
+document.write ('&amp;cb=' + m3_r);
+if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+document.write ("&amp;loc=" + escape(window.location));
+if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+if (document.context) document.write ("&context=" + escape(document.context));
+if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+}
+if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+document.write ("'></scr"+"ipt>");
+//]]>--></script>
+</td><td>
+<table width="700"><tr><td></td></tr></table><form id="translation" name="translation" action="/c/m.exe" method="get">
+<input type="hidden" name="l1" value="1"><input type="hidden" name="l2"
+value="2">
+
+<table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" cellpadding="0" id="AutoNumber1" width="100%">
+<tr>
+<td><span style="position:relative;"><input id="s" type="text" name="s" autocomplete="off"
+value="swim" size="45" tabindex="1">&nbsp;</span><input type="submit"
+value="Поиск" tabindex="2">&nbsp;
+Eng&nbsp;<br><div id="suggest"></div></td>
+<td>
+
+</td>
+</tr>
+</table>
+<script><!--
+document.translation.s.select()
+document.translation.s.focus()
+// --></script>
+</form>
+<div></div>
+<script>
+createAutoComplete();
+</script>
+
+<table border="0" cellspacing="0" cellpadding="0"><tr><td bgcolor="#DBDBDB" colspan="2" width="700">&nbsp;<a href="m.exe?a=118&t=181966_1_2">swim</a> <img SRC="/gif/[.gif" width="9" height="16" align="absbottom"><img SRC="/gif/115.gif" width="7" align="absbottom" height="16"><img SRC="/gif/119.gif" width="14" align="absbottom" height="16"><img SRC="/gif/73.gif" width="5" align="absbottom" height="16"><img SRC="/gif/109.gif" width="15" align="absbottom" height="16"><img SRC="/gif/].gif" width="9" height="16" align="absbottom"> <em>сущ.</em>&nbsp;<span STYLE="color:gray">|<span STYLE="color:black">&nbsp;<a target="_blank" HREF="http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=swim"><FONT SIZE=2>Вебстер</FONT></a>&nbsp;<span STYLE="color:gray">|<span STYLE="color:black">&nbsp;<a href="#phrases"><FONT SIZE=2>фразы</FONT></a></a>&nbsp;<span STYLE="color:gray">|<span STYLE="color:black">&nbsp;<FONT SIZE=2><a href="m.exe?&s=swim&google=1"> g-sort</a></FONT>
+</td></tr><tr><td >&nbsp;&nbsp;<a title="Общая лексика" href="m.exe?a=110&t=181966_1_2&sc=0"><i>общ.</i>&nbsp;</a>
+</td><td> <a href="m.exe?t=181966_2_1&s1=swim">плавание</a>;  <a href="m.exe?t=3986122_2_1&s1=swim">купание</a><span STYLE="color:gray"> (в море, озере)<span STYLE="color:black">;  <a href="m.exe?t=805891_2_1&s1=swim">основное течение</a><span STYLE="color:gray"> (the swim; событий, общественной жизни)<span STYLE="color:black">;  <a href="m.exe?t=3986124_2_1&s1=swim">омут</a><span STYLE="color:gray"> (в котором водится рыба)<span STYLE="color:black">;  <a href="m.exe?t=181961_2_1&s1=swim">течение</a><span STYLE="color:gray"> (событий, общественной жизни и т. п.)<span STYLE="color:black">;  <a href="m.exe?t=181962_2_1&s1=swim">головокружение</a>;  <a href="m.exe?t=181963_2_1&s1=swim">обморок</a>;  <a href="m.exe?t=181964_2_1&s1=swim">омут, в котором водится рыба</a>;  <a href="m.exe?t=4228489_2_1&s1=swim">плаванье</a>;  <a href="m.exe?t=5056184_2_1&s1=swim">заводь, изобилующая рыбой</a></td><tr><td >&nbsp;&nbsp;<a title="Морской термин" href="m.exe?a=110&t=5734651_1_2&sc=7"><i>мор.</i>&nbsp;</a>
+</td><td> <a href="m.exe?t=5734651_2_1&s1=swim">часть носа или часть кормы ниже грузовой ватерлинии</a></td><tr><td >&nbsp;&nbsp;<a title="Печатные платы" href="m.exe?a=110&t=4194907_1_2&sc=840"><i>печатн.пл.</i>&nbsp;</a>
+</td><td> <a href="m.exe?t=4194907_2_1&s1=swim">уплывание</a><span STYLE="color:gray"> (<a href="m.exe?a=116&&UserName=%CC%E5%F2%F0%E0%ED"><i>Метран</i></a>)<span STYLE="color:black"></td><tr><td >&nbsp;&nbsp;<a title="Спорт" href="m.exe?a=110&t=5056189_1_2&sc=20"><i>спорт.</i>&nbsp;</a>
+</td><td> <a href="m.exe?t=5056189_2_1&s1=swim">заплыв</a></td><tr><td bgcolor="#DBDBDB" colspan="2" width="700">&nbsp;<a href="m.exe?a=118&t=181966_1_2">swim</a><span STYLE="color:gray"> (swam, swum)<span STYLE="color:black"> <img SRC="/gif/[.gif" width="9" height="16" align="absbottom"><img SRC="/gif/115.gif" width="7" align="absbottom" height="16"><img SRC="/gif/119.gif" width="14" align="absbottom" height="16"><img SRC="/gif/73.gif" width="5" align="absbottom" height="16"><img SRC="/gif/109.gif" width="15" align="absbottom" height="16"><img SRC="/gif/].gif" width="9" height="16" align="absbottom"> <em>гл.</em> <a href="#start"><FONT SIZE=2>в начало</FONT></a>
+</td></tr><tr><td >&nbsp;&nbsp;<a title="Общая лексика" href="m.exe?a=110&t=17617_1_2&sc=0"><i>общ.</i>&nbsp;</a>
+</td><td> <a href="m.exe?t=17617_2_1&s1=swim">плавать</a><span STYLE="color:gray"> (в чем-либо)<span STYLE="color:black">;  <a href="m.exe?t=6090_2_1&s1=swim">плыть</a>;  <a href="m.exe?t=30130_2_1&s1=swim">переплывать</a>;  <a href="m.exe?t=3986123_2_1&s1=swim">купаться</a><span STYLE="color:gray"> (в море, озере)<span STYLE="color:black">;  <a href="m.exe?t=181956_2_1&s1=swim">заставлять плыть</a>;  <a href="m.exe?t=3986126_2_1&s1=swim">плавно двигаться</a>;  <a href="m.exe?t=3986128_2_1&s1=swim">скользить</a>;  <a href="m.exe?t=805892_2_1&s1=swim">быть погружённым</a><span STYLE="color:gray"> (in; во что-л.)<span STYLE="color:black">;  <a href="m.exe?t=3986127_2_1&s1=swim">плыть</a><span STYLE="color:gray"> (перед глазами)<span STYLE="color:black">;  <a href="m.exe?t=181958_2_1&s1=swim">чувствовать головокружение</a>;  <a href="m.exe?t=181960_2_1&s1=swim">кружиться</a><span STYLE="color:gray"> (о голове)<span STYLE="color:black">;  <a href="m.exe?t=3986125_2_1&s1=swim">переливаться через край</a>;  <a href="m.exe?t=3986121_2_1&s1=swim">заливать</a>;  <a href="m.exe?t=22441_2_1&s1=swim">поплыть</a>;  <a href="m.exe?t=33368_2_1&s1=swim">заплывать</a>;  <a href="m.exe?t=19886_2_1&s1=swim">отплывать</a>;  <a href="m.exe?t=14258_2_1&s1=swim">наплывать</a>;  <a href="m.exe?t=40693_2_1&s1=swim">приплывать</a>;  <a href="m.exe?t=40809_2_1&s1=swim">проплывать</a>;  <a href="m.exe?t=40364_2_1&s1=swim">подплывать</a>;  <a href="m.exe?t=84470_2_1&s1=swim">переплыть</a>;  <a href="m.exe?t=181957_2_1&s1=swim">заставить плыть</a>;  <a href="m.exe?t=181965_2_1&s1=swim">быть залитым</a><span STYLE="color:gray"> (чем-либо)<span STYLE="color:black">;  <a href="m.exe?t=181959_2_1&s1=swim">почувствовать головокружение</a>;  <a href="m.exe?t=198265_2_1&s1=swim">закружиться</a>;  <a href="m.exe?t=4744164_2_1&s1=swim">кишеть</a><span STYLE="color:gray"> (with <a href="m.exe?a=116&&UserName=Notburga"><i>Notburga</i></a>)<span STYLE="color:black">;  <a href="m.exe?t=4744594_2_1&s1=swim">изобиловать</a><span STYLE="color:gray"> (with <a href="m.exe?a=116&&UserName=Notburga"><i>Notburga</i></a>)<span STYLE="color:black">;  <a href="m.exe?t=5056185_2_1&s1=swim">заливаться</a>;  <a href="m.exe?t=5056186_2_1&s1=swim">наполняться</a>;  <a href="m.exe?t=5056187_2_1&s1=swim">переплавлять вплавь</a>;  <a href="m.exe?t=5056188_2_1&s1=swim">плыть перед глазами</a></td><tr><td >&nbsp;&nbsp;<a title="Военный термин" href="m.exe?a=110&t=3450832_1_2&sc=24"><i>воен.</i>&nbsp;</a>
+</td><td> <a href="m.exe?t=3450832_2_1&s1=swim">передвигаться на плаву</a><span STYLE="color:gray"> (<a href="m.exe?a=116&&UserName=%CA%E8%F1%E5%EB%E5%E2"><i>Киселев</i></a>)<span STYLE="color:black">;  <a href="m.exe?t=3450833_2_1&s1=swim">переправляться вплавь</a><span STYLE="color:gray"> (<a href="m.exe?a=116&&UserName=%CA%E8%F1%E5%EB%E5%E2"><i>Киселев</i></a>)<span STYLE="color:black"></td><tr><td >&nbsp;&nbsp;<a title="Океанология" href="m.exe?a=110&t=2558500_1_2&sc=415"><i>океан.</i>&nbsp;</a>
+</td><td> <a href="m.exe?t=2558500_2_1&s1=swim">поддерживать на воде</a></td><tr><td >&nbsp;&nbsp;<a title="Сленг" href="m.exe?a=110&t=2838481_1_2&sc=136"><i>сл.</i>&nbsp;</a>
+</td><td> <a href="m.exe?t=2838481_2_1&s1=swim">иметь успех</a>;  <a href="m.exe?t=2838482_2_1&s1=swim">успешно выступать</a></td><tr><td >&nbsp;&nbsp;<a title="Общая лексика" href="m.exe?a=110&t=6372618_1_2&sc=0"><i>общ.</i>&nbsp;</a>
+</td><td> <span STYLE="color:gray">in it<span STYLE="color:black"> <a href="m.exe?t=6372618_2_1&s1=swim">тонуть</a><span STYLE="color:gray"> (о чрезмерно просторной одежде <a href="m.exe?a=116&&UserName=MingNa"><i>MingNa</i></a>)<span STYLE="color:black"></td><tr><td bgcolor="#DBDBDB" colspan="2" width="700">&nbsp;<a href="m.exe?a=118&t=181966_1_2">SWIM</a> <img SRC="/gif/[.gif" width="9" height="16" align="absbottom"><img SRC="/gif/115.gif" width="7" align="absbottom" height="16"><img SRC="/gif/119.gif" width="14" align="absbottom" height="16"><img SRC="/gif/73.gif" width="5" align="absbottom" height="16"><img SRC="/gif/109.gif" width="15" align="absbottom" height="16"><img SRC="/gif/].gif" width="9" height="16" align="absbottom"> <em>сокр.</em> <a href="#start"><FONT SIZE=2>в начало</FONT></a>
+</td></tr><tr><td >&nbsp;&nbsp;<a title="Авиация" href="m.exe?a=110&t=6377047_1_2&sc=4"><i>авиа.</i>&nbsp;</a>
+</td><td> <a href="m.exe?t=6377047_2_1&s1=SWIM">SWIM network</a><span STYLE="color:gray"> (<a href="m.exe?a=116&&UserName=MichaelBurov"><i>MichaelBurov</i></a>)<span STYLE="color:black">;  <a href="m.exe?t=6377052_2_1&s1=SWIM">управление целостностью системы</a><span STYLE="color:gray"> (<a href="m.exe?a=116&&UserName=MichaelBurov"><i>MichaelBurov</i></a>)<span STYLE="color:black">;  <a href="m.exe?t=6377053_2_1&s1=SWIM">сеть управления целостностью системы</a><span STYLE="color:gray"> (<a href="m.exe?a=116&&UserName=MichaelBurov"><i>MichaelBurov</i></a>)<span STYLE="color:black">;  <a href="m.exe?t=6378746_2_1&s1=SWIM">system-wide integrity management</a><span STYLE="color:gray"> (<a href="m.exe?a=116&&UserName=MichaelBurov"><i>MichaelBurov</i></a>)<span STYLE="color:black">;  <a href="m.exe?t=6378747_2_1&s1=SWIM">system wide integrity management network</a><span STYLE="color:gray"> (<a href="m.exe?a=116&&UserName=MichaelBurov"><i>MichaelBurov</i></a>)<span STYLE="color:black">;  <a href="m.exe?t=6378748_2_1&s1=SWIM">system-wide integrity management network</a><span STYLE="color:gray"> (<a href="m.exe?a=116&&UserName=MichaelBurov"><i>MichaelBurov</i></a>)<span STYLE="color:black"></td><tr><td >&nbsp;&nbsp;<a title="Деловая лексика" href="m.exe?a=110&t=4435137_1_2&sc=291"><i>бизн.</i>&nbsp;</a>
+</td><td> <a href="m.exe?t=4435137_2_1&s1=SWIM">Strategically Winning Industrial Markets</a>;  <a href="m.exe?t=4435138_2_1&s1=SWIM">Superior Warehouse Inventory Management</a></td><tr><td >&nbsp;&nbsp;<a title="Военный термин" href="m.exe?a=110&t=2005406_1_2&sc=24"><i>воен.</i>&nbsp;</a>
+</td><td> <a href="m.exe?t=2005406_2_1&s1=SWIM">sea warfare interim model</a></td><tr><td >&nbsp;&nbsp;<a title="Вычислительная техника" href="m.exe?a=110&t=4510128_1_2&sc=138"><i>вчт.</i>&nbsp;</a>
+</td><td> <a href="m.exe?t=4510128_2_1&s1=SWIM">Super Woz' Integrated Machine</a></td><tr><td >&nbsp;&nbsp;<a title="Интернет" href="m.exe?a=110&t=5395859_1_2&sc=633"><i>Интернет</i>&nbsp;</a>
+</td><td> <a href="m.exe?t=5395859_2_1&s1=SWIM">знакомый</a><span STYLE="color:gray"> (Someone Whom I've Met <a href="m.exe?a=116&&UserName=Ele_Boz"><i>Ele_Boz</i></a>)<span STYLE="color:black"></td><tr><td >&nbsp;&nbsp;<a title="Метеорология" href="m.exe?a=110&t=4435131_1_2&sc=46"><i>метеорол.</i>&nbsp;</a>
+</td><td> <a href="m.exe?t=4435131_2_1&s1=SWIM">Solar Wind Interplanetary Measurements</a></td><tr><td >&nbsp;&nbsp;<a title="НАСДАК" href="m.exe?a=110&t=4435139_1_2&sc=871"><i>НАСДАК</i>&nbsp;</a>
+</td><td> <a href="m.exe?t=4435139_2_1&s1=SWIM">Anthony and Sylvan Pools</a></td><tr><td >&nbsp;&nbsp;<a title="Образование" href="m.exe?a=110&t=4435133_1_2&sc=323"><i>образ.</i>&nbsp;</a>
+</td><td> <a href="m.exe?t=4435133_2_1&s1=SWIM">Southern Wells Individual Mentor</a></td><tr><td >&nbsp;&nbsp;<a title="Океанография" href="m.exe?a=110&t=4435130_1_2&sc=412"><i>океаногр.</i>&nbsp;</a>
+</td><td> <a href="m.exe?t=4435130_2_1&s1=SWIM">Surface Water Improvement And Management</a></td><tr><td >&nbsp;&nbsp;<a title="Религия" href="m.exe?a=110&t=4435134_1_2&sc=44"><i>рел.</i>&nbsp;</a>
+</td><td> <a href="m.exe?t=4435134_2_1&s1=SWIM">Satan's Way Into Me</a>;  <a href="m.exe?t=4435135_2_1&s1=SWIM">Summer Workshop In Ministries</a>;  <a href="m.exe?t=4435136_2_1&s1=SWIM">Summer Witness In Missions</a></td><tr><td >&nbsp;&nbsp;<a title="Сокращение" href="m.exe?a=110&t=2036932_1_2&sc=120"><i>сокр.,&nbsp;джейн.</i>&nbsp;</a>
+</td><td> <a href="m.exe?t=2036932_2_1&s1=SWIM">System Wide Integrity Management</a><span STYLE="color:gray"> (USA)<span STYLE="color:black"></td><tr><td >&nbsp;&nbsp;<a title="Электроника" href="m.exe?a=110&t=4435132_1_2&sc=134"><i>эл.</i>&nbsp;</a>
+</td><td> <a href="m.exe?t=4435132_2_1&s1=SWIM">Semiconductor Workbench for Integrated Modeling</a></td></tr></table><a name="phrases"></a>
+
+<table cellspacing="0" border="0">
+<tr><td width="25%"><img border="0" src="gif/empty5.gif" width="1" height="8"></td><td width="25%"></td><td width="25%"></td><td width="25%"></td></tr>
+<tr><td width="700" colspan="4" bgcolor="#DBDBDB">&nbsp;swim: <a href="m.exe?a=3&&s=swim&l1=1&l2=2">214 фразы</a> в 28 тематиках&nbsp;<span STYLE="color:gray">|<span STYLE="color:black">&nbsp;<a href="#start"><FONT SIZE=2>в начало</FONT></a></td></tr>
+<tr><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&s=swim&sc=4&l1=1&l2=2">Авиация</a></td><td width="25%">7</td><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&&s=swim&sc=310&l1=1&l2=2">Пословица</a></td><td width="25%">18</td></tr>
+<tr><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&s=swim&sc=333&l1=1&l2=2">Американский&nbsp;английский</a></td><td width="25%">1</td><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&&s=swim&sc=22&l1=1&l2=2">Поэтический&nbsp;язык</a></td><td width="25%">1</td></tr>
+<tr><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&s=swim&sc=3&l1=1&l2=2">Биология</a></td><td width="25%">1</td><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&&s=swim&sc=357&l1=1&l2=2">Программирование</a></td><td width="25%">1</td></tr>
+<tr><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&s=swim&sc=45&l1=1&l2=2">Британский&nbsp;английский</a></td><td width="25%">2</td><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&&s=swim&sc=306&l1=1&l2=2">Путешествия</a></td><td width="25%">1</td></tr>
+<tr><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&s=swim&sc=741&l1=1&l2=2">Бронетанковая&nbsp;техника</a></td><td width="25%">1</td><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&&s=swim&sc=9&l1=1&l2=2">Разговорное&nbsp;выражение</a></td><td width="25%">2</td></tr>
+<tr><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&s=swim&sc=24&l1=1&l2=2">Военный&nbsp;термин</a></td><td width="25%">3</td><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&&s=swim&sc=287&l1=1&l2=2">Реклама</a></td><td width="25%">1</td></tr>
+<tr><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&s=swim&sc=895&l1=1&l2=2">Идиоматическое&nbsp;выражение</a></td><td width="25%">3</td><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&&s=swim&sc=195&l1=1&l2=2">Рыбоводство</a></td><td width="25%">5</td></tr>
+<tr><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&s=swim&sc=517&l1=1&l2=2">Макаров</a></td><td width="25%">32</td><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&&s=swim&sc=30&l1=1&l2=2">Сельское&nbsp;хозяйство</a></td><td width="25%">1</td></tr>
+<tr><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&s=swim&sc=8&l1=1&l2=2">Медицина</a></td><td width="25%">1</td><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&&s=swim&sc=136&l1=1&l2=2">Сленг</a></td><td width="25%">2</td></tr>
+<tr><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&s=swim&sc=321&l1=1&l2=2">Менеджмент</a></td><td width="25%">1</td><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&&s=swim&sc=20&l1=1&l2=2">Спорт</a></td><td width="25%">6</td></tr>
+<tr><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&s=swim&sc=7&l1=1&l2=2">Морской&nbsp;термин</a></td><td width="25%">4</td><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&&s=swim&sc=122&l1=1&l2=2">Текстиль</a></td><td width="25%">2</td></tr>
+<tr><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&s=swim&sc=0&l1=1&l2=2">Общая&nbsp;лексика</a></td><td width="25%">108</td><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&&s=swim&sc=964&l1=1&l2=2">Торпеды</a></td><td width="25%">1</td></tr>
+<tr><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&s=swim&sc=415&l1=1&l2=2">Океанология</a></td><td width="25%">1</td><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&&s=swim&sc=31&l1=1&l2=2">Шутливое&nbsp;выражение</a></td><td width="25%">5</td></tr>
+<tr><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&s=swim&sc=742&l1=1&l2=2">Подводное&nbsp;плавание</a></td><td width="25%">1</td><td width="25%">&nbsp;&nbsp;<a href="m.exe?a=3&&s=swim&sc=743&l1=1&l2=2">Яхтенный&nbsp;спорт</a></td><td width="25%">2</td></tr>
+</table>
+</td><td>&nbsp;&nbsp;&nbsp;</td><td>
+<script type='text/javascript'>
+<!--//<![CDATA[
+document.MAX_ct0 ='';
+var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
+var m3_r = Math.floor(Math.random()*99999999999);
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("zoneid=181907");document.write("&amp;nodis=1");
+document.write ('&amp;cb=' + m3_r);
+if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+document.write ("&amp;loc=" + escape(window.location));
+if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+if (document.context) document.write ("&context=" + escape(document.context));
+if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+}
+if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+document.write ("'></scr"+"ipt>");
+//]]>--></script>
+
+</td></tr></table></td></tr></table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td height="3">&nbsp;</td>
+<td height="3">&nbsp;</td>
+<td height="3">&nbsp;</td>
+</tr>
+<tr bgcolor="#DBDBDB">
+<td><font size="2">&nbsp;<a href="m.exe?a=104&&l1=1&l2=2&s1=swim">Добавить</a>&nbsp;<span STYLE="color:gray">|<span STYLE="color:black">&nbsp;<a href="m.exe?a=134&s=swim&l1=1&l2=2">Удалить</a>&nbsp;<span STYLE="color:gray">|<span STYLE="color:black">&nbsp;<a href="m.exe?a=11&l1=1&l2=2&s=swim">Изменить</a>&nbsp;<span STYLE="color:gray">|<span STYLE="color:black">&nbsp;<a href="m.exe?a=26&&s=swim&l1=1&l2=2">Сообщить&nbsp;об&nbsp;ошибке</a>&nbsp;<span STYLE</font></td>
+
+<td>
+<g:plusone size="small"></g:plusone>
+<script type="text/javascript">
+window.___gcfg = {lang: 'ru'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+</td>
+
+<td align="right">
+<!--Rating@Mail.ru logo--> <a target="_top"
+href="http://top.mail.ru/jump?from=203589"><img
+src="http://db.c1.b3.a0.top.mail.ru/counter?id=203589;t=109;l=1" border="0" height="18"
+width="88" alt="Рейтинг@Mail.ru"></a> <!--// Rating@Mail.ru logo-->
+</td>
+</tr>
+<tr>
+<td colspan="3">&nbsp;</td>
+
+</tr>
+<tr>
+<td>
+<p align="center">&nbsp;</td>
+
+<td>
+<!-- R-57304-1 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-57304-1"></div>
+<script type="text/javascript">
+(function(w, d, n, s, t) {
+w[n] = w[n] || [];
+w[n].push(function() {
+Ya.Context.AdvManager.render({
+blockId: "R-57304-1",
+renderTo: "yandex_ad_R-57304-1",
+async: true
+});
+});
+t = d.getElementsByTagName("script")[0];
+s = d.createElement("script");
+s.type = "text/javascript";
+s.src = "//an.yandex.ru/system/context.js";
+s.async = true;
+t.parentNode.insertBefore(s, t);
+})(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</td>
+
+<td>&nbsp;</td>
+
+</tr>
+</table>
+</td></tr></table></td><td>&nbsp;</td></tr></table>
+
+</body>
+</html>
