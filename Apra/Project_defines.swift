@@ -32,6 +32,6 @@ extension String {
     
     subscript(range:NSRange) -> String {
         
-        return self[Range(start: range.location, end: range.location + range.length)];
+        return (self as NSString).substringWithRange(range)
     }
 }

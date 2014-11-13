@@ -7,7 +7,7 @@
 //
 
 import Foundation
-
+import Alamofire
 class Word: NSObject {
     
     var value : String?
@@ -53,7 +53,7 @@ class VocabularyProcessor: NSObject {
         println("func : \(__FUNCTION__) line : \(__LINE__)")
 
         self.getHTMLpageForWord(self.targetWord){
-            [unowned self]
+//            [unowned self]
             (HTML) -> () in
             
             if HTML != nil {
@@ -64,7 +64,30 @@ class VocabularyProcessor: NSObject {
     
     func getHTMLpageForWord(word: String, completion: (String?) -> ()) {
         println("func: \(__FUNCTION__) line: \(__LINE__)")
-        var error : NSError?
+//        var error : NSError?
+        
+        let r = Alamofire
+        .request(.GET, "http://www.multitran.ru/c/m.exe", parameters: ["s" : word])
+        .response { (_, _, responseObject, error) -> Void in
+            
+            println("response: \(responseObject)")
+            
+            if error != nil {
+                println(error)
+                completion(nil)
+                return;
+            }
+            
+            if let data = responseObject as? NSData {
+
+                completion(NSString(data: data, encoding: NSWindowsCP1251StringEncoding))
+
+            } else {
+
+                print("func: \(__FUNCTION__) line: \(__LINE__) error: no HTML")
+                completion(nil)
+            }
+        }
         
 //        let request = AFHTTPRequestOperation(request:
 //            AFHTTPRequestSerializer().requestWithMethod("GET",
